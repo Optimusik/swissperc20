@@ -58,25 +58,13 @@ npm run deploy
 npm run mint
 ```
 
-### 7. Check Supply
-
-```bash
-npm run check-supply
-```
-
-### 8. Check Balance
-
-```bash
-npm run balance-of
-```
-
-### 9. Tranfer Token
+### 7. Tranfer Token
 
 ```bash
 npm run transfer
 ```
 
-### 10. Finsihed
+### 8. Finsihed
 
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address in testnet dashboard
